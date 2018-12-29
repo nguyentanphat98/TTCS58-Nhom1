@@ -1,0 +1,10 @@
+======================
+MaNhanVien: 1234
+Ho Ten: nguyen tan
+Ten: phat
+Luong: 9000
+======================
+MaNhanVien: 12345
+Ho Ten: nguyen van
+Ten: hoa
+Luong: 9800
